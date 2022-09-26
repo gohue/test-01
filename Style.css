@@ -79,7 +79,7 @@ body{
 }
 .img{
     padding: 0.0rem calc((87vw - 1200px) / 2);
-    background-color: #333333;
+    background-color: #fad7c2;
 }
 .img-container{
     border: 0px solid #fff;
@@ -106,19 +106,19 @@ body{
     margin: 0px;
     padding: 0;
     font-size: 60px;
-    color: aliceblue;
+    color: #333333;
     border-top: 0px solid aliceblue;
 }
 .img-container .p1 {
     position: absolute;
-    color: #fff;
+    color: #333333;
     top: 20px;
     font-size: 20px;
     text-transform: uppercase;
 }
 .img-container .p2 {
     position: absolute;
-    color: #fff;
+    color: #333333;
     bottom: 20px;
     font-size: 20px;
     text-transform: uppercase;
